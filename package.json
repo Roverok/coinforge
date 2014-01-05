@@ -1,0 +1,13 @@
+{
+    "name": "coinforge",
+    "version": "0.0.0",
+    "description": "A node.js cryptocoin pool.",
+    "main": "main.js",
+    "author": "Bardi Harborow <bardi.harborow@gmail.com>",
+    "dependencies": {
+        "uuid": "~1.4.1",
+        "stratum": "~0.0.6",
+        "socket.io": "~0.9.16",
+        "es5class": "~1.0.2"
+    }
+}
